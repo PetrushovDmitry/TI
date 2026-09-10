@@ -1,0 +1,6 @@
+﻿  ti3.cpp
+C:\Users\Dmitry\Desktop\TI\ti3\ti3\ti3.cpp(67,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti3\ti3\ti3.cpp(68,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ti3.vcxproj -> C:\Users\Dmitry\Desktop\TI\ti3\x64\Debug\ti3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

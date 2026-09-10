@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ti4/ti4.vcxproj" Id="b3ff842c-9ecd-4724-b6c2-664ccc0d65c4" />
+</Solution>
