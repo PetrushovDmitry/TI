@@ -1,0 +1,10 @@
+﻿  ti1.cpp
+C:\Users\Dmitry\Desktop\TI\ti1\ti1\ti1.cpp(13,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti1\ti1\ti1.cpp(14,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti1\ti1\ti1.cpp(44,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti1\ti1\ti1.cpp(45,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti1\ti1\ti1.cpp(73,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti1\ti1\ti1.cpp(74,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ti1.vcxproj -> C:\Users\Dmitry\Desktop\TI\ti1\x64\Debug\ti1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
