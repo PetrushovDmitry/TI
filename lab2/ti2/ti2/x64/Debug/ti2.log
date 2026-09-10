@@ -1,0 +1,13 @@
+﻿  ti2.cpp
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(14,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(15,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(25,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(26,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(45,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(97,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(98,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(225,67): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Dmitry\Desktop\TI\ti2\ti2\ti2.cpp(226,67): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  ti2.vcxproj -> C:\Users\Dmitry\Desktop\TI\ti2\x64\Debug\ti2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
